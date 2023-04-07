@@ -1,13 +1,14 @@
 #import streamlit as st
 import pandas as pd
 import numpy as np
-import streamlit as st
 from bs4 import BeautifulSoup
 import requests
 import pandas as pd
 import datetime
 import schedule
 import time
+import streamlit as st
+
 def scrapper():
     
     #url of the website
